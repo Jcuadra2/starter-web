@@ -19,4 +19,4 @@ Please fork this repository and then isuse Pull Request for review.
 
 ### Copyright
 
-2021 Jota.Training.
+2021 Jota.Training. All rights reserved.
