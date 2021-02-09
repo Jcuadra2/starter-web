@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jose Javier Saez	jota@git.training.com	@jcuadra2
 
 # THANKS
 
