@@ -14,6 +14,8 @@ As state above, the main purpose is to provide simple examples for Git training 
 
 ## How to Colaborate
 
+Please fork this repository and then isuse Pull Request for review.
+
 ### Copyright
 
 2021 Jota.Training.
